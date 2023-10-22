@@ -1,0 +1,1 @@
+This Readme.md file was created as a Git practice exercise for the CA class - week 1.
